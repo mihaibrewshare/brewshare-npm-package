@@ -1,0 +1,22 @@
+{
+  "name": "brewshare",
+  "version": "1.0.0",
+  "description": "JavaScript package for developing brewing recipes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mihaibrewshare/brewshare-npm-package.git"
+  },
+  "keywords": [
+    "brewshare"
+  ],
+  "author": "Mihai Tudorache",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mihaibrewshare/brewshare-npm-package/issues"
+  },
+  "homepage": "https://github.com/mihaibrewshare/brewshare-npm-package#readme"
+}
