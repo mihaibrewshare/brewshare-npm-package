@@ -1,6 +1,6 @@
 {
   "name": "brewshare",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "JavaScript package for developing brewing recipes",
   "main": "index.js",
   "scripts": {

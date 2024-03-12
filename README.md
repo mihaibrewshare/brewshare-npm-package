@@ -1,23 +1,23 @@
-# brewshare-npm-package
+# brewshare
 
 ## Overview
 
-brewshare-npm-package is a Node.js package designed to assist brewers with various calculations and conversions commonly used in brewing. Whether you're a homebrewer or a professional brewer developing JavaScript projects, this package provides handy functions to streamline your brewing processes.
+brewshare is a Node.js package designed to assist brewers with various calculations and conversions commonly used in brewing. Whether you're a homebrewer or a professional brewer developing JavaScript projects, this package provides handy functions to streamline your brewing processes.
 
 ## Installation
 
-You can install brewshare-npm-package via npm:
+You can install brewshare via npm:
 
 ```bash
-npm install brewshare-npm-package
+npm install brewshare
 ```
 
 ## Usage
 
-To use brewshare-npm-package in your Node.js project, simply require it:
+To use brewshare in your Node.js project, simply require it:
 
 ```javascript
-const brewshare = require("brewshare-npm-package");
+const brewshare = require("brewshare");
 ```
 
 Once imported, you can access its functions for color conversions, gravity conversions, temperature conversions, and various calculators:
@@ -65,4 +65,4 @@ Calculators
 
 ## Contribution
 
-Contributions to brewshare-npm-package are welcome! If you have suggestions for improvements, additional functions, or bug fixes, please open an issue or submit a pull request on GitHub.
+Contributions to brewshare are welcome! If you have suggestions for improvements, additional functions, or bug fixes, please open an issue or submit a pull request on GitHub.
