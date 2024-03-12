@@ -59,6 +59,11 @@ Temperature Conversions
 - `celsiusToFahrenheit(celsius)`: Converts Celsius to Fahrenheit.
 - `fahrenheitToCelsius(fahrenheit)`: Converts Fahrenheit to Celsius.
 
+Volume Conversions
+
+- `litersToGallons(liters)`: Converts Liters to Gallons.
+- `gallonsToLiters(gallons)`: Converts Gallons to Liters.
+
 Calculators
 
 - `calculateAbv(og, fg)`: Calculates Alcohol by Volume (ABV) based on Original Gravity (OG) and Final Gravity (FG).
