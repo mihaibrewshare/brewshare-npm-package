@@ -1,13 +1,13 @@
-const colorConversions = require("./colorConversions");
-const gravityConversions = require("./gravityConversions");
-const temperatureConversions = require("./temperatureConversions");
-const volumeConversions = require("./volumeConversions");
-const calculators = require("./calculators");
+const colorConvertors = require("./convertors/colorConvertors");
+const gravityConvertors = require("./convertors/gravityConvertors");
+const temperatureConvertors = require("./convertors/temperatureConvertors");
+const volumeConvertors = require("./convertors/volumeConvertors");
+const abvCalculator = require("./calculators/abvCalculator");
 
 module.exports = {
-  ...colorConversions,
-  ...gravityConversions,
-  ...temperatureConversions,
-  ...calculators,
-  ...volumeConversions,
+  ...colorConvertors,
+  ...gravityConvertors,
+  ...temperatureConvertors,
+  ...volumeConvertors,
+  ...abvCalculator,
 };

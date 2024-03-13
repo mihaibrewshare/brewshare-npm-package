@@ -1,4 +1,4 @@
-const { srmHex } = require("./colors");
+const { srmHex } = require("../utils/colors");
 
 function ebcToSrm(ebc) {
   return Math.round((ebc / 1.97) * 10) / 10;

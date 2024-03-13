@@ -35,6 +35,10 @@ console.log(platoValue); // Output: 12
 const fahrenheitValue = brewshare.celsiusToFahrenheit(20);
 console.log(fahrenheitValue); // Output: 68
 
+// Volume Conversions
+const gallonsValue = brewshare.litersToGallons(5);
+console.log(gallonsValue); // Output: 1.32
+
 // Calculators
 const abvValue = brewshare.calculateAbv(1.06, 1.015);
 console.log(abvValue); // Output: 5.9
